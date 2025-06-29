@@ -39,4 +39,4 @@ Para executar os códigos, basta rodar os arquivos Python:
 O padrão Singleton é uma ferramenta poderosa para resolver problemas específicos, como o gerenciamento de recursos globais. No entanto, sua aplicação deve ser considerada com cuidado devido aos seus pontos fracos, especialmente em relação a testes e acoplamento. Entender quando e por que usá-lo é crucial para o desenvolvimento de software robusto.
 
 ## Apresentação do Projeto
-**Link para o vídeo da apresentação:** 
+**Link para o vídeo da apresentação:** https://youtu.be/BHR9AiaJv2s
